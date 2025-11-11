@@ -45,17 +45,23 @@ Me destaco por mi enfoque en la **calidad del código**, la **eficiencia** y la 
 
 ### 🧩 Proyectos Destacados
 
-**🛒 SoftTech-e-commerce**  
+**🚀 [NexaTech E-commerce API](https://github.com/fkz14/NexaTech-Ecommerce)**  
+Servidor backend con **Node.js**, **Express** y **MongoDB**, para gestión de productos y carritos.  
+Incluye vistas dinámicas con **Handlebars**, **Socket.io** para tiempo real y diseño moderno.  
+🧠 *Rol:* Desarrollo backend completo e integración con vistas dinámicas.  
+⚙️ *Tecnologías:* Node.js, Express, MongoDB, Handlebars, Socket.io, CSS moderno.  
+
+**🛍️ [SoftTech E-commerce](https://github.com/fkz14/SoftTech-E-Commerce)**  
 Tienda online moderna con catálogo, carrito y checkout funcional.  
 🧠 *Rol:* Desarrollo completo del frontend e integración con base de datos.  
 ⚙️ *Tecnologías:* React, Chakra UI, Firebase, React Router, Context API, Git/GitHub.  
 
-**🔐 SoftHard-Auth**  
+**🔐 [SoftHard Auth](https://github.com/fkz14/SoftHard-Auth)**  
 Sistema de autenticación seguro y moderno para usuarios.  
 🧠 *Rol:* Registro, inicio de sesión, validaciones y notificaciones interactivas.  
 ⚙️ *Tecnologías:* HTML5, CSS3, JavaScript, SweetAlert2, Moment.js, LocalStorage.  
 
-**💻 SoftHard**  
+**💻 [SoftHard](https://github.com/fkz14/SoftHard)**  
 Página web para servicios de desarrollo y consultoría tecnológica.  
 🧠 *Rol:* Arquitectura, diseño responsivo y experiencia de usuario.  
 ⚙️ *Tecnologías:* HTML5, CSS3, Sass, Bootstrap, Git/GitHub.  
