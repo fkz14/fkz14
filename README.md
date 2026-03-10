@@ -5,10 +5,11 @@
 
 # 🚀 Desarrollador Web Full Stack
 
-Desarrollador enfocado en la creación de **aplicaciones web modernas y escalables**.  
+Desarrollador enfocado en la creación de **aplicaciones web modernas y escalables**, con experiencia en **frontend y backend**.
+
 Trabajo principalmente con **React en frontend** y **Node.js + Express en backend**, desarrollando **APIs REST, sistemas de autenticación y arquitecturas backend modulares**.
 
-Mi enfoque está en escribir **código limpio, seguro y mantenible**, aplicando buenas prácticas de desarrollo y patrones de arquitectura.
+Me enfoco en escribir **código limpio, mantenible y escalable**, aplicando buenas prácticas de desarrollo, optimización y trabajo colaborativo.
 
 ---
 
@@ -34,69 +35,94 @@ Mi enfoque está en escribir **código limpio, seguro y mantenible**, aplicando 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# 💼 Experiencia Profesional
 
-![Alejo GitHub stats](https://github-readme-stats.vercel.app/api?username=fkz14&show_icons=true&theme=tokyonight)
+### 🧩 Desarrollador Frontend Jr  
+**MindDev Perú · Jornada completa**  
+📅 jul. 2025 – dic. 2025 (6 meses)  
+🌎 Lima, Perú · Remoto
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkz14&layout=compact&theme=tokyonight)
-
----
-
-# ⭐ Proyectos Principales
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fkz14&repo=adoptme-backend&theme=tokyonight)](https://github.com/fkz14/adoptme-backend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fkz14&repo=coderHouse-backend2&theme=tokyonight)](https://github.com/fkz14/coderHouse-backend2)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fkz14&repo=NexaTech-Ecommerce&theme=tokyonight)](https://github.com/fkz14/NexaTech-Ecommerce)
+- Desarrollo e implementación de **interfaces web modernas y responsivas**.
+- Colaboración con el equipo **UX/UI** para transformar prototipos en componentes funcionales.
+- Aplicación de **buenas prácticas de código, optimización y semántica** en HTML, CSS y JavaScript.
+- Integración de **APIs y consumo de servicios desde el frontend**.
+- Participación en **revisiones de código, mantenimiento y mejora continua de proyectos**.
+- Uso de **React y Tailwind** siguiendo estándares del equipo.
+- Participación activa en **reuniones técnicas, revisiones de avance y capacitaciones internas**.
 
 ---
 
 # 🧩 Proyectos Destacados
 
 ## 🐶 AdoptMe Backend API
+
 Backend para una **plataforma de adopción de mascotas** con arquitectura modular.
 
 **Características**
 
-- API REST para usuarios, mascotas y adopciones
-- Autenticación con JWT
-- Encriptación con Bcrypt
-- Documentación Swagger / OpenAPI
-- Generación de datos con Faker
-- Tests automatizados con Jest + Supertest
-- Contenerización con Docker
+- API REST para usuarios, mascotas y adopciones  
+- Autenticación con JWT  
+- Encriptación con Bcrypt  
+- Documentación Swagger / OpenAPI  
+- Tests automatizados con Jest + Supertest  
+- Contenerización con Docker  
 
 **Tecnologías**
 
-Node.js • Express • MongoDB • JWT • Bcrypt • Docker • Jest • Swagger
+Node.js • Express • MongoDB • JWT • Bcrypt • Docker • Jest • Swagger  
+
+Repositorio  
+[https://github.com/fkz14/adoptme-backend](https://github.com/fkz14/Backend-Adoptme)
 
 ---
 
 ## 🛒 ShopCore Backend
+
 Backend completo de **e-commerce con autenticación, carritos y sistema de compras**.
 
 **Características**
 
-- Autenticación JWT
-- Roles y permisos (admin / user)
-- CRUD de usuarios
-- CRUD de productos
-- Gestión de carritos
-- Validación de stock
-- Generación automática de tickets
+- Autenticación JWT  
+- Roles de usuario (admin / user)  
+- CRUD de productos  
+- Gestión de carritos  
+- Validación de stock  
+- Generación automática de tickets  
 
 **Arquitectura**
 
-DAO Pattern • Repository Pattern • DTO Pattern
+DAO Pattern • Repository Pattern • DTO Pattern  
 
 **Tecnologías**
 
-Node.js • Express • MongoDB • Passport • JWT • Bcrypt
+Node.js • Express • MongoDB • Passport • JWT • Bcrypt  
+
+Repositorio  
+[https://github.com/fkz14/coderHouse-backend2](https://github.com/fkz14/ShopCore-Backend)
+
+---
+
+## 🛍️ SoftTech E-commerce
+
+Aplicación de **e-commerce desarrollada con React y Firebase**, enfocada en la experiencia de usuario y gestión dinámica de productos.
+
+**Características**
+
+- Catálogo dinámico de productos  
+- Filtrado por categorías  
+- Carrito de compras persistente  
+- Checkout con generación de orden  
+- Navegación SPA con React Router  
+
+**Tecnologías**
+
+React • Chakra UI • Firebase • React Router • Context API  
+
+Repositorio  
+[https://github.com/fkz14/SoftTech-E-Commerce](https://github.com/fkz14/SoftTech-E-Commerce)
 
 ---
 
@@ -106,67 +132,18 @@ Servidor backend para **gestión de productos y carritos de compra**.
 
 **Características**
 
-- CRUD completo de productos
-- Gestión de carritos
-- Paginación y filtros
-- Vistas dinámicas con Handlebars
-- Actualización en tiempo real con Socket.io
+- CRUD completo de productos  
+- Gestión de carritos  
+- Paginación y filtros  
+- Vistas dinámicas con Handlebars  
+- Actualización en tiempo real con Socket.io  
 
 **Tecnologías**
 
-Node.js • Express • MongoDB • Mongoose • Handlebars • Socket.io
+Node.js • Express • MongoDB • Handlebars • Socket.io  
 
----
-
-## 🛍️ SoftTech E-commerce
-
-Tienda online desarrollada con **React y Firebase**.
-
-**Características**
-
-- Catálogo de productos
-- Filtrado por categorías
-- Carrito de compras
-- Checkout con generación de orden
-
-**Tecnologías**
-
-React • Chakra UI • Firebase • React Router • Context API
-
----
-
-## 🔐 SoftHard Auth
-
-Sistema de autenticación con interfaz moderna.
-
-**Características**
-
-- Registro de usuarios
-- Inicio de sesión
-- Notificaciones interactivas
-- Almacenamiento local
-
-**Tecnologías**
-
-HTML • CSS • JavaScript • SweetAlert2 • Moment.js • LocalStorage
-
----
-
-## 💻 SoftHard
-
-Sitio web corporativo para servicios tecnológicos.
-
-**Características**
-
-- Landing page empresarial
-- Sección de servicios
-- Galería y ubicación
-- Formulario de contacto
-- Diseño responsive
-
-**Tecnologías**
-
-HTML • CSS • Sass • Bootstrap
+Repositorio  
+[https://github.com/fkz14/NexaTech-Ecommerce](https://github.com/fkz14/NexaTech-Ecommerce)
 
 ---
 
@@ -174,29 +151,31 @@ HTML • CSS • Sass • Bootstrap
 
 Durante mi formación en **Coderhouse** obtuve:
 
-🥇 Top 1 – React JS  
-🥇 Top 1 – Programación Backend I  
-🥇 Top 1 – Backend II Diseño
+🥇 **Top 1 – React JS**  
+🥇 **Top 1 – Programación Backend I**  
+🥇 **Top 1 – Backend II Diseño**
 
 ---
 
 # 🎓 Formación
 
-### Universidad Nacional de Lanús
+### Universidad Nacional de Lanús  
 **Licenciatura en Sistemas** *(2023 – Presente)*
 
-- Programación
-- Bases de datos
-- Análisis de sistemas
+- Programación  
+- Bases de datos  
+- Análisis de sistemas  
 
-### Coderhouse
+### Coderhouse  
 **Carrera Desarrollo Web Full Stack – Finalizada**
 
-- Frontend con React
-- Desarrollo de APIs REST
-- Backend con Node.js y Express
-- Autenticación con JWT
-- Arquitectura backend y testing
+- React  
+- Node.js  
+- Express  
+- MongoDB  
+- APIs REST  
+- Autenticación JWT  
+- Testing y arquitectura backend  
 
 ---
 
@@ -206,7 +185,7 @@ Durante mi formación en **Coderhouse** obtuve:
 📞 **+54 11 5160-9715**
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/alejo-daniel-almirón
+https://www.linkedin.com/in/alejo-daniel-almirón  
 
 💻 GitHub  
 https://github.com/fkz14
